@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gonza\\OneDrive - ECPI University\\ECPI  doc\\ECPI Classes\\SDC320\\Fixed New Github Life Insurance Client App\\New-Fixed-Repo\\New-Fixed-Repo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gonza\\OneDrive - ECPI University\\ECPI  doc\\ECPI Classes\\SDC320\\Fixed New Github Life Insurance Client App\\New-Fixed-Repo\\New-Fixed-Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gonza\\OneDrive - ECPI University\\ECPI  doc\\ECPI Classes\\SDC320\\Fixed New Github Life Insurance Client App\\New-Fixed-Repo\\New-Fixed-Repo.csproj",
+        "projectName": "New-Fixed-Repo",
+        "projectPath": "C:\\Users\\gonza\\OneDrive - ECPI University\\ECPI  doc\\ECPI Classes\\SDC320\\Fixed New Github Life Insurance Client App\\New-Fixed-Repo\\New-Fixed-Repo.csproj",
+        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gonza\\OneDrive - ECPI University\\ECPI  doc\\ECPI Classes\\SDC320\\Fixed New Github Life Insurance Client App\\New-Fixed-Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
